@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZachBohl1020
+- 👋 Hi, I’m Zach
 - 👀 I’m interested in UX design/research, frontend development, crypto, operating systems and game design.
 - 🌱 I’m currently learning UX design, web development and Linux kernel programming.
 - 💞️ I’m looking to collaborate on design, C/C++, Python and HTML/CSS/Javascript projects.
