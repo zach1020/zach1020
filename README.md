@@ -2,4 +2,4 @@
 - 👀 I’m interested in UX design/research, frontend development, crypto, operating systems and game design.
 - 🌱 I’m currently learning UX design, web development and Linux kernel programming.
 - 💞️ I’m looking to collaborate on design, C/C++, Python and HTML/CSS/Javascript projects.
-- 📫 How to reach me: https://www.linkedin.com/in/zachary-bohl-2092581ab/
+- 📫 How to reach me:
