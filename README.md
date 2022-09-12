@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Zach
-- 👀 I’m interested in UX design/research, frontend development, crypto, operating systems and game design.
-- 🌱 I’m currently learning UX design, web development and Linux kernel programming.
+- 👀 I’m interested in UX design/research, UI, AI, crypto, operating systems and music.
+- 🌱 I’m currently pursuing a master's degree in computer science.
 - 💞️ I’m looking to collaborate on design, C/C++, Python and HTML/CSS/Javascript projects.
-- 📫 How to reach me:
