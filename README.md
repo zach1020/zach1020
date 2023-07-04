@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Zach
-- 👀 I’m interested in AI, operating systems, UX design/research, crypto, and music
+- 👀 I’m interested in AI, operating systems, UX design/research, crypto, quantum and music
 - 🌱 I’m currently pursuing a master's degree in computer science
 - 💞️ I’m looking to collaborate on design, C/C++, Python and HTML/CSS/Javascript projects
