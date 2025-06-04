@@ -2,4 +2,4 @@
 - 👀 I’m interested in AI, operating systems, UX design/research, crypto, quantum and music
 - 🌱 I’m currently pursuing a master's degree in computer science
 - 💞️ I’m looking to collaborate on design, C/C++, Python, Rust and HTML/CSS/Javascript projects
-- I like to vibe-code, but none of my GitHub contributions or repos is vibe-coded!
+- I like to vibe-code, but none of my GitHub contributions or repos are vibe-coded!
